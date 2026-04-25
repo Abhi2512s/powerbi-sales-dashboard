@@ -5,6 +5,10 @@
 This project presents a Sales Performance Dashboard built using Power BI.
 It analyzes sales trends, profit, and growth using DAX and time intelligence.
 
+## 💡 Business Problem
+The objective of this project is to analyze sales performance across time, categories, and regions to identify growth trends, profitability, and key business drivers.  
+The dashboard helps stakeholders understand seasonal patterns, top-performing segments, and areas of improvement.
+  
 ---
 
 ## 🎯 Objectives
@@ -23,6 +27,12 @@ It analyzes sales trends, profit, and growth using DAX and time intelligence.
 * Interactive Filters (Year, Category, Region)
 * Category & Regional Analysis
 
+## 🧠 Data Modeling
+- Created a dedicated Date Table using DAX for time intelligence  
+- Established relationship between DateTable and Sales dataset  
+- Implemented star schema for efficient analysis  
+- Enabled accurate calculations for YTD, YoY, and trend analysis
+ 
 ---
 
 ## 📈 Insights
